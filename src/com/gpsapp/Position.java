@@ -1,6 +1,6 @@
 /**
  *
- * @author nabil
+ * @author Nabil EL Mahiri
  */
 
 package com.gpsapp;
